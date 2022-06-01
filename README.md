@@ -4,3 +4,8 @@ The idea of using this format (base64) its becouse you need to store information
 <br>
 <br>
 <b> You can check the result here: https://lucianotorrano.github.io/mouse-particle-img-interaction.github.io/<b>
+<br>
+<br>
+<br>
+ 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91889090/171310555-11a98218-a802-4caf-820b-b7742c560630.gif)
